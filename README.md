@@ -86,9 +86,6 @@ Personal learning project demonstrating visual latency between multiple stock ex
 - **Tech Stack:** TypeScript
 - **Focus:** Real-time data visualization and financial systems
 
-### 📚 [DSAA2Z](https://github.com/soundarya-dash-673/DSAA2Z)
-Data Structures and Algorithms repository - comprehensive collection of implementations and solutions.
-
 ## 📊 GitHub Stats
 
 ![Soundarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soundarya-dash-673&show_icons=true&theme=radical&hide_border=true)
