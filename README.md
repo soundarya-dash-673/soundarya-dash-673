@@ -118,7 +118,6 @@ I'm always interested in collaborating on innovative projects, especially those 
 - AI/ML applications
 - Microservices and distributed systems
 - Full-stack development
-- Financial technology solutions
 
 Feel free to reach out for collaborations or just a chat about technology!
 
