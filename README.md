@@ -88,8 +88,6 @@ Personal learning project demonstrating visual latency between multiple stock ex
 
 ## 📊 GitHub Stats
 
-![Soundarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soundarya-dash-673&show_icons=true&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soundarya-dash-673&layout=compact&theme=radical&hide_border=true)
 
 ## 🎯 Current Focus
