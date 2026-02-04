@@ -39,7 +39,7 @@ Docker • Kubernetes • Terraform • CI/CD (Jenkins, Harness, Spinnaker)
 
 **AI/ML Tools**
 ```
-LangGraph • LLMs • AWS Textract • Machine Learning Pipelines
+LangChain LangGraph FineTuning • LLMs • AWS Textract • Machine Learning Pipelines
 ```
 
 **Testing & Quality**
@@ -58,6 +58,68 @@ Jest • Cypress • JUnit • Mockito • Pytest • Spock
 - **70% Reduction** in manual effort through LLM-based incident automation
 - **$1M+ AWS Infrastructure** managed using Terraform
 - **10,000+ Documents** processed daily through AI-powered OCR systems
+
+This is a stellar set of projects. You’re hitting the "AI Engineering" trifecta: **Multi-agent orchestration**, **RAG architecture**, and **Enterprise API integration**.
+
+To make these shine in a `README.md`, I’ve organized them into a professional portfolio format that emphasizes the "How" and the "Result," which is exactly what hiring managers look for.
+
+---
+
+# AI Automation Portfolio
+
+A collection of enterprise-grade AI systems designed to bridge the gap between design, documentation, and technical execution.
+
+## 🤖 AI-Powered JIRA Automation System
+
+**Bridging Figma Designs to Development Backlogs**
+
+This system utilizes a multi-agent orchestration layer to transform visual design assets into actionable developer documentation.
+
+### 🛠 Tech Stack
+
+* **Orchestration:** LangGraph, LangChain
+* **LLM:** OpenAI GPT-4
+* **Languages & Cloud:** Python, AWS Lambda
+* **Integrations:** JIRA REST API, Figma API
+
+### 🚀 Key Features
+
+* **Multi-Agent Architecture:** Specialized agents for Design Component Extraction, User Flow Analysis, and Acceptance Criteria (AC) Generation.
+* **Automated Requirement Extraction:** Achieved **85% accuracy** in translating Figma frames into technical user stories via advanced prompt engineering.
+* **Bidirectional Sync:** Real-time consistency using JIRA webhooks and Figma plugins; updates in the design automatically trigger updates in the corresponding JIRA story.
+
+---
+
+## 🛠 RAG-Based ServiceNow Incident Chatbot
+
+**Context-Aware IT Support & Automated Ticket Lifecycle**
+
+A Retrieval-Augmented Generation (RAG) pipeline that leverages historical data and documentation to resolve or route IT incidents autonomously.
+
+### 🛠 Tech Stack
+
+* **AI/ML:** LangChain, OpenAI Embeddings
+* **Vector Store:** Pinecone DB
+* **Frontend & API:** React.js, ServiceNow REST API
+* **Infrastructure:** AWS Lambda, Python
+
+### 🚀 Key Features
+
+* **Knowledge Retrieval:** Engineered a RAG pipeline utilizing document chunking and semantic search across **10,000+ pages** of runbooks and historical patterns.
+* **Intelligent Routing:** Integrated LangChain **function calling** to automate ticket creation, priority classification, and SLA assignment based on team expertise.
+* **Compliance Ready:** Maintained comprehensive audit trails for every AI-generated action to meet enterprise compliance standards.
+
+---
+
+### 📈 Impact Summary
+
+| Metric | AI-JIRA System | RAG Chatbot |
+| --- | --- | --- |
+| **Accuracy** | 85% Extraction Rate | Context-Aware Resolution |
+| **Data Volume** | Real-time Design Sync | 10k+ Document Pages |
+| **Automation** | Bidirectional JIRA Updates | Full Ticket Lifecycle |
+
+---
 
 ## 🔥 Featured Projects
 
